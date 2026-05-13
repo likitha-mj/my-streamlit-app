@@ -1,13 +1,2 @@
-pdfminer3
-pyresparser
-streamlit
-pandas
-pafy
-plotly
-pymysql
-streamlit-tags
-Pillow
-youtube-dl
-nltk
-pdfminer3
-spacy==2.3.5
+setuptools==80.9.0
+wheel==0.45.1
